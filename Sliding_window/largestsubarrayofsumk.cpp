@@ -9,7 +9,7 @@ the sum is given which is equal to k
  step1. we will find the sum of all size subarray
  step2. check sum is less then k if yes then j++;
  step3. else if sum==k then possible ans candidate is found so, ans=max(ans,j-i+1) 
- step4. else if sum>k then we have to descrease the window size or sum for that we will descrease the sum until sum<k 
+ step4. else if sum>k then we have to descrease the window size or sum for that we will descrease the sum until sum<=k 
  for that sum-=arr[i]  
 */
 
