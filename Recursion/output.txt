@@ -1,1 +1,4 @@
-1 2 4 5 
+before reverse>>>
+5 4 3 2 1 
+after reverse>>>>>
+1 2 3 4 5 
