@@ -1,4 +1,7 @@
-0
-0
-1
-1
+move plate 1 from s to h
+move plate 2 from s to h
+move plate 1 from h to d
+move plate 3 from s to d
+move plate 1 from s to h
+move plate 2 from h to d
+move plate 1 from h to d
