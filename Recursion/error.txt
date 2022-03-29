@@ -1,1 +1,1 @@
-Time : 22ms
+Time : 17ms
