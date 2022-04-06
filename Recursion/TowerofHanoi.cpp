@@ -28,6 +28,12 @@ double eps = 1e-12;
 #define all(x) (x).begin(), (x).end()
 #define sz(x) ((ll)(x).size())
 
+
+
+// time comp:-O(2^n)
+//space comp:-O(n)
+// where n is number of ring
+
 void hanoi(int n, char s, char d, char h){
      if(n==1){
           cout<<"move plate "<<n<<" from "<<s<<" to "<<d<<ln;
